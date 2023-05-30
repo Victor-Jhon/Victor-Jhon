@@ -1,16 +1,18 @@
-### Hi there 👋
+### olá! Eu sou Victor Jhon ✌️
 
-<!--
-**Victor-Jhon/Victor-Jhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-jhon-1ab955244/?originalSubdomain=br)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorjhon_/)
 
-Here are some ideas to get you started:
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Jhon&show_icons=true&theme=radical) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso ou já usei 
+
+<div style="diplay: inline_block"><br/>
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</div><br/>
+
+Apaixonado por tecnologia! 
+Futuro QA! 
+Sonho em mudar vidas atraves de um computador.
